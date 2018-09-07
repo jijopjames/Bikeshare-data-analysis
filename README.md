@@ -2,8 +2,11 @@
 Data Analysis on Us Bike Share Data 
 
 This project contains three csv file as datasets. They are chicago.csv, new_york_city.csv and washington.csv.
+
 In this project is about accepting these datasets and analysing the data.
+
 The datasets:
+
 Randomly selected data for the first six months of 2017 are provided for all three cities. All three of the data files contain the same core six (6) columns:
 
     •	Start Time (e.g., 2017-01-01 00:07:57)
@@ -23,6 +26,7 @@ Input:
     1.	In this project, the three datasheets are in puts files in which data is sorted according to the requirements.
     2.	These has an interactive interface in which user have the choice of choosing city whose data is to be sorted.
     3.	Once, required city data is chosen the user can choose the how the data can be sorted. i.e. the user is given three choices which are sort by month, day or nether.
+    
 Output:
 
     1.	The data is accepted and sorted according to the user’s specifications.
