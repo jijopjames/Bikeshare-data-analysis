@@ -1,7 +1,5 @@
 # Bikeshare-data-analysis
 Data Analysis on Us Bike Share Data 
-# Bikeshare-data-analysis
-Data Analysis on Us Bike Share Data 
 
 This project contains three csv file as datasets. They are chicago.csv, new_york_city.csv and washington.csv.
 In this project is about accepting these datasets and analysing the data.
