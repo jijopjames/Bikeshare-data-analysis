@@ -1,6 +1,12 @@
 # Bikeshare-data-analysis
 Data Analysis on Us Bike Share Data. This project contains three csv file as datasets. They are chicago.csv, new_york_city.csv and washington.csv. In this project is about accepting these datasets and analysing the data.
 
+## Installation:
+This project need 2 major libraries **NumPy** & **Pandas**
+
+Enter `conda install numpy`
+Enter `conda install pandas`
+
 ## The datasets:
 Randomly selected data for the first six months of 2017 are provided for all three cities. All three of the data files contain the same core six (6) columns:
 
@@ -16,8 +22,8 @@ Randomly selected data for the first six months of 2017 are provided for all thr
 * _Gender_
 * _Birth Year_
 
-## Usage
-##### Input:
+## Usage:
+#### Input:
 
 * In this project, the three datasheets are in puts files in which data is sorted according to the requirements.
 * These has an interactive interface in which user have the choice of choosing city whose data is to be sorted.
@@ -46,3 +52,10 @@ Once, required data is sorted out the data is analysed and sorted accordingly. i
      * Count for each gender for New York and Chicago 
      * Oldest customer and recent customer for New York and Chicago
      * Most common year of birth for New York and Chicago
+     
+## More Information 
+* Stack Overflow
+* Udacity Python Foundation Nanodegree Program
+* GitHub
+
+ 
