@@ -4,8 +4,8 @@ Data Analysis on Us Bike Share Data. This project contains three csv file as dat
 ## Installation:
 This project need 2 major libraries **NumPy** & **Pandas**
 
-Enter `conda install numpy`
-Enter `conda install pandas`
+* Enter `conda install numpy`
+* Enter `conda install pandas`
 
 ## The datasets:
 Randomly selected data for the first six months of 2017 are provided for all three cities. All three of the data files contain the same core six (6) columns:
@@ -49,9 +49,9 @@ Once, required data is sorted out the data is analysed and sorted accordingly. i
      
 * User Information
      * Count of each user type
-     * Count for each gender for New York and Chicago 
-     * Oldest customer and recent customer for New York and Chicago
-     * Most common year of birth for New York and Chicago
+     * Count for each gender for _New York_ and _Chicago_ 
+     * Oldest customer and recent customer for _New York_ and _Chicago_
+     * Most common year of birth for _New York_ and _Chicago_
      
 ## More Information 
 * Stack Overflow
