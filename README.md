@@ -1,20 +1,15 @@
 # Bikeshare-data-analysis
-Data Analysis on Us Bike Share Data 
+Data Analysis on Us Bike Share Data. This project contains three csv file as datasets. They are chicago.csv, new_york_city.csv and washington.csv. In this project is about accepting these datasets and analysing the data.
 
-This project contains three csv file as datasets. They are chicago.csv, new_york_city.csv and washington.csv.
-
-In this project is about accepting these datasets and analysing the data.
-
-The datasets:
-
+##The datasets:
 Randomly selected data for the first six months of 2017 are provided for all three cities. All three of the data files contain the same core six (6) columns:
 
-    •	Start Time (e.g., 2017-01-01 00:07:57)
-    •	End Time (e.g., 2017-01-01 00:20:53)
-    •	Trip Duration (in seconds - e.g., 776)
-    •	Start Station (e.g., Broadway & Barry Ave)
-    •	End Station (e.g., Sedgwick St & North Ave)
-    •	User Type (Subscriber or Customer)
+* _Start Time_ (e.g., 2017-01-01 00:07:57)
+* _End Time_ (e.g., 2017-01-01 00:20:53)
+* _Trip Duration_ (in seconds - e.g., 776)
+* _Start Station_ (e.g., Broadway & Barry Ave)
+* _End Station_ (e.g., Sedgwick St & North Ave)
+* _User Type_ (Subscriber or Customer)
 
 The Chicago and New York City files also have the following two columns:
 
