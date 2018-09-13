@@ -1,5 +1,5 @@
 # Bikeshare-data-analysis
-Data Analysis on Us Bike Share Data. This project contains three csv file as datasets. They are chicago.csv, new_york_city.csv and washington.csv. In this project is about accepting these datasets and analysing the data.
+Data Analysis on Us Bike Share Data. This project contains three csv file as datasets. They are _chicago.csv_, _new_york_city.csv_ and _washington.csv_. In this project is about accepting these datasets and analysing the data.
 
 ## Installation:
 This project need 2 major libraries **NumPy** & **Pandas**
@@ -17,7 +17,7 @@ Randomly selected data for the first six months of 2017 are provided for all thr
 * _End Station_ (e.g., Sedgwick St & North Ave)
 * _User Type_ (Subscriber or Customer)
 
-###### The Chicago and New York City files also have the following two columns:
+The _Chicago_ and _New York City_ files also have the following two columns:
 
 * _Gender_
 * _Birth Year_
